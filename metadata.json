@@ -1,0 +1,6 @@
+{
+  "name": "Cafe Velvet Bean",
+  "description": "Artisanal coffee shop and fresh bakes in Bandra West, Mumbai",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
